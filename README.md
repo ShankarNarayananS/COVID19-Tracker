@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/COVID19-Tracker/blob/master/resources/covid19-tracker.gif">
+<img src="https://github.com/ShankarNarayananS/COVID19-Tracker/blob/master/resources/covid19-tracker.gif" >
 </p>
 
 <p align="center">
